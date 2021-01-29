@@ -1,0 +1,112 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Missing required bookmark data","level":"error"}
+{"message":"Bookmark with id af9fc53c-3b3e-4bc5-adae-1fdf92e3afb4 not found","level":"error"}
+{"message":"Bookmark with id af9fc53c-3b3e-4bc5-adae-1fdf92e3afb4 not found","level":"error"}
+{"message":"Attempt to delete bookmark with id 5a00d20e-eeae-4f17-95b5-e0ba2ecf27f5 failed; no such id found","level":"error"}
+{"message":"Attempt to delete bookmark with id 5a00d20e-eeae-4f17-95b5-e0ba2ecf27f5 failed; no such id found","level":"error"}
+{"message":"Unauthorized request to path: /articles","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Bookmark with id 11 not found","level":"error"}
+{"message":"Bookmark with id 1 not found","level":"error"}
+{"message":"Bookmark with id 2 not found","level":"error"}
+{"message":"Bookmark with id 2 not found","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Bookmark with id 12 not found","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/12345","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/7","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/6","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Description is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Description is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Description is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Bookmark with id 12345 not found","level":"error"}
+{"message":"Bookmark with id 6 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Description is required","level":"error"}
+{"message":"Rating between 1 and 5 is required","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/123456","level":"error"}
